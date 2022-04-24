@@ -4,7 +4,7 @@
 
 ### _Purpose_:
 
-The purpose of this project is to create a fast and reliable spreadsheet that enables Steve to conduct research of the stock market.  The original code needed refactoring to handle this new use case and decrease the computing runtime.
+The purpose of this project is to create a fast and reliable spreadsheet that enables Steve to conduct research of the entire stock market.  The original code needed refactoring to handle this new use case and decrease the computing runtime.
 
 ### _Results_:
 
