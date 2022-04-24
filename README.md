@@ -8,7 +8,7 @@ The purpose of this project is to create a fast and reliable spreadsheet that St
 
 ### _Results_:
 
-While both codes return results quickly.  The results for the refactored code is consistently faster than the original code.  The original code returned results for 2017 in about 0.559 seconds [insert picture] and completed its analysis of 2018 stocks in about 0.555 seconds [insert picture].  By comparison, the refactored code analyzed 2017 stocks in about 0.121 seconds [insert picture] and returned results for 2018 in about 0.555 seconds [insert picture].
+While both codes return results quickly.  The results for the refactored code is consistently faster than the original code.  The original code returned results for [2017](Resources/VBA_Challenge_2017.png) in about 0.559 seconds and completed its analysis of 2018 stocks in about 0.555 seconds [insert picture].  By comparison, the refactored code analyzed 2017 stocks in about 0.121 seconds [insert picture] and returned results for 2018 in about 0.555 seconds [insert picture].
 
 The refactored code runs faster because the inner loop is looping over the array [insert 2 pictures] as opposed to looping through each cell [insert 1 pictures].  Similarly, the output for the “All Stocks” tab is computed using the array [insert 1 photo] as opposed to each cell [insert 1 photo]
 
