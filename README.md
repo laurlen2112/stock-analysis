@@ -16,7 +16,7 @@ The refactored code runs faster because the inner loop is looping over the array
 
 ### _Advantages of Code Refactoring_:
 
-Refactored code provides several advantages including a tendency to use less memory and the concise nature of refactored code provides ease of use for others to read and understand it.  Most importantly, refactoring code executes in fewer steps, which reduces the probability of human error in writing the code.  These advantages increase the code’s functionality and efficiency
+Refactored code provides several advantages such as a tendency to use less memory.  Additionally, the concise nature of refactored code provides ease of use for others to read and understand it.  Most importantly, refactoring code executes in fewer steps, which reduces the probability of human error in writing the code.  These advantages increase the code’s functionality and efficiency
 
 ### _Disadvantages of Code Refactoring_:
 
